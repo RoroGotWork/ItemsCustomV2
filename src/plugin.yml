@@ -1,0 +1,8 @@
+name: ItemsCustom
+version: 2.0
+auhtor: RoroGotWork
+main: fr.rorocraft.items.ItemsCustom
+commands:
+  igive:
+    description: Commande pour donner des items custom
+    permission: igive.use
